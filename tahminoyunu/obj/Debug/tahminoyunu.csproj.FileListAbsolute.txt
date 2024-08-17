@@ -1,0 +1,8 @@
+C:\Users\Muharrem\source\repos\yaptıklarım\tahminoyunu\tahminoyunu\bin\Debug\tahminoyunu.exe.config
+C:\Users\Muharrem\source\repos\yaptıklarım\tahminoyunu\tahminoyunu\bin\Debug\tahminoyunu.exe
+C:\Users\Muharrem\source\repos\yaptıklarım\tahminoyunu\tahminoyunu\bin\Debug\tahminoyunu.pdb
+C:\Users\Muharrem\source\repos\yaptıklarım\tahminoyunu\tahminoyunu\obj\Debug\tahminoyunu.csproj.AssemblyReference.cache
+C:\Users\Muharrem\source\repos\yaptıklarım\tahminoyunu\tahminoyunu\obj\Debug\tahminoyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muharrem\source\repos\yaptıklarım\tahminoyunu\tahminoyunu\obj\Debug\tahminoyunu.csproj.CoreCompileInputs.cache
+C:\Users\Muharrem\source\repos\yaptıklarım\tahminoyunu\tahminoyunu\obj\Debug\tahminoyunu.exe
+C:\Users\Muharrem\source\repos\yaptıklarım\tahminoyunu\tahminoyunu\obj\Debug\tahminoyunu.pdb
